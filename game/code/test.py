@@ -112,6 +112,8 @@ def update():
         print("LOOT GEÖFFNET!")
 
 
+
+
     getInfo()
 
 
@@ -120,5 +122,6 @@ def getInfo():
     if keyboard.i:
         print(spieler.width)
         print(spieler.height)
+        print("HAllo world")
 
 pgzrun.go()
